@@ -87,9 +87,12 @@ subplot(3,1,3);
 xpoly(0:N-1, y_circ, 0, 1);
 xtitle("Circular Convolution y(n)");
 ```
+
 ## OUTPUT (Linear Convolution): 
+![WhatsApp Image 2025-09-08 at 15 17 39_21bd9f19](https://github.com/user-attachments/assets/c42864a6-aeda-4ffa-be31-1edcb7b95086)
 
 ## OUTPUT (Circular Convolution): 
+![WhatsApp Image 2025-09-08 at 15 07 12_51524167](https://github.com/user-attachments/assets/f72003d5-4abe-454e-992c-b0cb159f5683)
 
 ## RESULT: 
 Linear and Circular Convolution for two given sequence using SCILAB was performed.
